@@ -1,0 +1,2 @@
+class SoundCarrier < ApplicationRecord
+end

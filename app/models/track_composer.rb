@@ -1,0 +1,2 @@
+class TrackComposer < ApplicationRecord
+end
